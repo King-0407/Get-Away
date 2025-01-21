@@ -1,0 +1,36 @@
+p{
+   font-family: "Roboto", serif ;
+   text-align: justify;
+   text-shadow: 2px 2px  blue;
+   text-indent: 100px;
+   letter-spacing: 2px ;
+}
+a{
+    text-decoration: none;
+}
+
+div{
+    /*border-top: 20px red;*/
+
+    border: 2px solid black;
+   height: 300px;
+   width: 500px;
+    border-top: 2px solid;
+    /*padding-top: 500px;*/
+    margin: 40px;
+
+}
+button{
+
+    background-color: blanchedalmond;
+    padding: 20px;
+    border: none;
+    color: black;
+    border-radius: 50px;
+}
+button:hover{
+    background-color: blueviolet;
+}
+
+
+

@@ -1,0 +1,18 @@
+p{
+    color: brown;
+}
+
+#Name{
+    color: aquamarine;
+}
+
+*{
+    background-color: blue;
+    background-image:url(../image/raj.png);
+     background-repeat: no repeat ;
+     background-position: top left;
+     background-attachment: fixed;
+
+     
+     background: url(../image/raj.png) fixed;
+}
